@@ -1,0 +1,12 @@
+{
+    "Texts": {
+        "HelloWorld": "Hello world!"
+    },
+    "Decls": {
+        "Days": ["day", "days", "days"],
+        "Hours": ["hour", "hours", "hours"],
+        "Minutes": ["minute", "minutes", "minutes"],
+        "Seconds": ["second", "seconds", "seconds"],
+        "MS": ["millisecond", "milliseconds", "milliseconds"]
+    }
+}
